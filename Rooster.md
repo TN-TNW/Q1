@@ -1,0 +1,41 @@
+# Rooster 
+
+## Inleidend practicum
+| moment | Wat | focus | Opmerking |
+|  ---   | --- | ----  | --- |
+| 1.1 | - | vrij | Academisch opening |
+| 1.2 | IP | Python Mod 1| |
+| 1.3 | IP | Python Mod 2 | |
+| 2.1 | Pr.| Intro vak <br> Mens Vitruvius <br> Workshop Teamwork <br> Installeren software | verplicht aanwezig|
+| 2.2 | IP | Python Mod 3| |
+| 2.3 | IP | Python Mod 3 & 4| |
+| 3.1 | Pr.| Data management & Labjournaal <br> Exp proj 1. Paraboolbaan | P/F |
+| 3.2 | IP | Python Mod 4 <br> safety <br> Zingende staaf| |
+| 3.3 | IP | Python Mod 5 <br> Uitwerken analyse Paraboolbaan| P/F |
+| 4.1 | Pr.| Workshop PL: Constructive Conflict | verplichte aanwezigheid |
+| 4.2 | IP | Python Mod 5 | |
+| 4.3 | IP | Python Mod 5| |
+| 5.1 | Pr.| Workshop ChatGPT <br> Orienteren Project  | verplichte aanwezigheid |
+| 5.2 | IP | Python Mod 6 | MC test, grade Pyt mod 1-5|
+| 5.3 | IP | IE-1 data verzameling | Experiment - verplichte aanwezigheid|
+| 6.1 | Pr.| Workshop PL: Skills and Culture Map | verplichte aanwezigheid |
+| 6.2 | IP | Python Mod 6 | |
+| 6.3 | IP | Data-analyse IE1| verplichte aanwezigheid|
+| 7.1 | Pr.| Project Q1 |
+| 7.2 | IP | Verslag | |
+| 7.3 | IP | Verslag| |
+| 8.1 | Pr.| Project Q1 | |
+| 8.2 | IP | Peer review | |
+| 8.3 | IP | Verslag| Inleveren vr. 21.30h <br> Grade |
+| 9.1 | Pr.| Project Q1 | |
+| 9.2 | Pr.| Project Q1 | |
+| 9.3 | Pr.| Project disseminatie en reflectie | Grade |
+| 10  | | Tentamen Python | Grade |
+
+Cijfer: 30% IE-1 + 40% Python + 40% Project
+Regels: 
+- Alles boven 5.5. 
+- Verplichte aanwezigheid gedaan (oplossing voor gemist?)
+- Pass (oplossing voor fail?)
+
+## Voorgezet practicum
