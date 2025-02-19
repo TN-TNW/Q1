@@ -1,4 +1,4 @@
-# Rooster 
+# Rooster
 
 ## Inleidend practicum
 | moment | Wat | focus | Opmerking |
@@ -38,4 +38,37 @@ Regels:
 - Verplichte aanwezigheid gedaan (oplossing voor gemist?)
 - Pass (oplossing voor fail?)
 
-## Voorgezet practicum
+## Voortgezet practicum
+| moment | Wat | focus | Opmerking |
+|  ---   | --- | ----  | --- |
+| 1.1 | pr. | Workshop Projectmanagement and version control in Github | |
+| 1.2 | ip | Voorbereiding BM  | |
+| 1.3 | ip | Experiment BM | |
+| 2.1 | pr. | Workshop data-acquisitie met computer
+| 2.2 | ip | Voorbereiding Oscilloscoop <br> data-analyse / verslag BM | |
+| 2.3 | ip | Experiment Oscilloscoop | |
+| 3.1 | ip | Uitwerken Osc. & BM | zelfstandig |
+| 3.2 | ip | Exp bep. van g | |
+| 3.3 | ip | Abstract bep van g | |
+| 4.1 | | | |
+| 4.2 | | | |
+| 4.3 | | | |
+| 5.1 | ip | Orientatie eindproject | |
+| 5.2 | ip | proposal | |
+| 5.3 | | | |
+| 6.1 | | | |
+| 6.2 | | | |
+| 6.3 | | | |
+| 7.1 |  ip | Exp dag 1 | |
+| 7.2 |  ip | Exp dag 2 | |
+| 7.3 |  ip | data-analyse | zelfstandig |
+| 8.1 |  ip | Exp dag 3 (als nodig) Verslag | |
+| 8.2 | | | |
+| 8.3 | ip | Verslag | |
+| 9.1 | ip | Verslag | |
+| 9.2 | ip | Peer review | P/F |
+| 9.3 | ip | Verslag & reflectie| |
+| 10  | 
+
+peer review
+argumenteren
