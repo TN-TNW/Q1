@@ -16,7 +16,7 @@
 | 4.2 | IP | Python Mod 5 | |
 | 4.3 | IP | Python Mod 5| |
 | 5.1 | Pr.| Workshop ChatGPT <br> Orienteren Project  | verplichte aanwezigheid |
-| 5.2 | IP | Python Mod 6 | MC test, grade Pyt mod 1-5|
+| 5.2 | IP | Python Mod 6 | MC test, **grade** Pyt mod 1-5|
 | 5.3 | IP | IE-1 data verzameling | Experiment - verplichte aanwezigheid|
 | 6.1 | Pr.| Workshop PL: Skills and Culture Map | verplichte aanwezigheid |
 | 6.2 | IP | Python Mod 6 | |
@@ -26,11 +26,11 @@
 | 7.3 | IP | Verslag| |
 | 8.1 | Pr.| Project Q1 | |
 | 8.2 | IP | Peer review | |
-| 8.3 | IP | Verslag| Inleveren vr. 21.30h <br> Grade |
+| 8.3 | IP | Verslag| Inleveren vr. 21.30h <br> **grade** |
 | 9.1 | Pr.| Project Q1 | |
 | 9.2 | Pr.| Project Q1 | |
-| 9.3 | Pr.| Project disseminatie en reflectie | Grade |
-| 10  | | Tentamen Python | Grade |
+| 9.3 | Pr.| Project disseminatie en reflectie | **grade** |
+| 10  | | Tentamen Python | **grade** |
 
 Cijfer: 30% IE-1 + 40% Python + 40% Project
 Regels: 
@@ -47,9 +47,9 @@ Regels:
 | 2.1 | pr. | Workshop data-acquisitie met computer
 | 2.2 | ip | Voorbereiding Oscilloscoop <br> data-analyse / verslag BM | |
 | 2.3 | ip | Experiment Oscilloscoop | |
-| 3.1 | ip | Uitwerken Osc. & BM | zelfstandig |
+| 3.1 | ip | Uitwerken Osc. & BM | zelfstandig <br> Inleveren verslag BM & labjournaal RC <br> **grade** |
 | 3.2 | ip | Exp bep. van g | |
-| 3.3 | ip | Abstract bep van g | |
+| 3.3 | ip | Abstract bep van g | inl. abstract <br> **grade** |
 | 4.1 | | | |
 | 4.2 | | | |
 | 4.3 | | | |
