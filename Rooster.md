@@ -15,28 +15,26 @@
 | 4.1 | Pr.| Workshop PL: Constructive Conflict | verplichte aanwezigheid |
 | 4.2 | IP | Python Mod 5 | |
 | 4.3 | IP | Python Mod 5| |
-| 5.1 | Pr.| Workshop ChatGPT <br> Orienteren Project  | verplichte aanwezigheid |
-| 5.2 | IP | Python Mod 6 | MC test, **grade** Pyt mod 1-5|
-| 5.3 | IP | IE-1 data verzameling | Experiment - verplichte aanwezigheid|
-| 6.1 | Pr.| Workshop PL: Skills and Culture Map | verplichte aanwezigheid |
-| 6.2 | IP | Python Mod 6 | |
-| 6.3 | IP | Data-analyse IE1| verplichte aanwezigheid|
-| 7.1 | Pr.| Project Q1 |
-| 7.2 | IP | Verslag | |
-| 7.3 | IP | Verslag| |
-| 8.1 | Pr.| Project Q1 | |
-| 8.2 | IP | Peer review | |
-| 8.3 | IP | Verslag| Inleveren vr. 21.30h <br> **grade** |
-| 9.1 | Pr.| Project Q1 | |
-| 9.2 | Pr.| Project Q1 | |
-| 9.3 | Pr.| Project disseminatie en reflectie | **grade** |
+| 6.1 | Pr.| Workshop ChatGPT <br> Orienteren Project  | verplichte aanwezigheid |
+| 6.2 | IP | Python Mod 6 | MC test, **grade** Pyt mod 1-5|
+| 6.3 | IP | IE-1 data verzameling | Experiment - verplichte aanwezigheid|
+| 7.1 | Pr.| Workshop PL: Skills and Culture Map | verplichte aanwezigheid |
+| 7.2 | IP | Python Mod 6 | |
+| 7.3 | IP | Data-analyse IE1| verplichte aanwezigheid|
+| 8.1 | Pr.| Project Q1 |
+| 8.2 | IP | Verslag | |
+| 8.3 | IP | Verslag| |
+| 9.1 | Pr.| Project Q1 Project disseminatie en reflectie| |
+| 9.2 | IP | Peer review | |
+| 9.3 | IP | Verslag| Inleveren vr. 21.30h <br> **grade** |
 | 10  | | Tentamen Python | **grade** |
 
-Cijfer: 30% IE-1 + 40% Python + 40% Project
+Cijfer: 30% IE-1 + 40% Python + 2.5
 Regels: 
 - Alles boven 5.5. 
 - Verplichte aanwezigheid gedaan (oplossing voor gemist?)
-- Pass (oplossing voor fail?)
+- Project pass / fail (oplossing voor fail?)
+
 
 ## Voortgezet practicum
 | moment | Wat | focus | Opmerking |
@@ -54,7 +52,7 @@ Regels:
 | 4.2 | | | |
 | 4.3 | | | |
 | 5.1 | ip | Orientatie eindproject | |
-| 5.2 | ip | proposal | |
+| 5.2 | ip | proposal | P/F |
 | 5.3 | | | |
 | 6.1 | | | |
 | 6.2 | | | |
@@ -67,7 +65,7 @@ Regels:
 | 8.3 | ip | Verslag | |
 | 9.1 | ip | Verslag | |
 | 9.2 | ip | Peer review | P/F |
-| 9.3 | ip | Verslag & reflectie| |
+| 9.3 | ip | Verslag & reflectie| **grade** |
 | 10  | 
 
 peer review
