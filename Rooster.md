@@ -51,11 +51,11 @@ Regels:
 | 4.1 | | | |
 | 4.2 | | | |
 | 4.3 | | | |
-| 5.1 | ip | Orientatie eindproject | |
-| 5.2 | ip | proposal | P/F |
-| 5.3 | | | |
-| 6.1 | | | |
-| 6.2 | | | |
+| 5.1 | |  | |
+| 5.2 | | |  |
+| 5.3 | |  | |
+| 6.1 | ip | Orientatie eindproject | |
+| 6.2 | ip | proposal| P/F|
 | 6.3 | | | |
 | 7.1 |  ip | Exp dag 1 | |
 | 7.2 |  ip | Exp dag 2 | |
@@ -101,3 +101,4 @@ BM + g + (10x)P/F RC + (10x)P/F project + cijfer EP
 1. thermal anomaly of water (breukhoven pg 81)
 1. nauwkeurige bepaling van soortelijke warmte van water / materiaal
 1. Brownian motion met de proef van Millikan
+1. Stirling process
