@@ -70,3 +70,34 @@ Regels:
 
 peer review
 argumenteren
+
+Q2: 
+Belangrijk: laat ze lol hebben om natuurkundig ingenieur te zijn.
+2 dagdelen iedereen
+1 dagdeel roulerend  (groepen van 3)
+carrousel van experimenten, werkend naar eindprojectje waarin ze een aanpassing doen van een vd experimenten.
+groot set verschillende experimenten rond zelfde onderwerp die je kan aanbieden ivm fraude
+a4tje invullen (SGO) spelen met de structuur
+eindvoorstel: proposal -> uitvoeren P/F
+cijfer tot standkoming: 
+
+BM + g + (10x)P/F RC + (10x)P/F project + cijfer EP
+
+## Projecten
+1. Bepalingen van absolute 0-punt op basis van volume meting (3B-scientific pg 98): https://www.natuurkunde.nl/artikelen/3596/absolute-nulpunt-berekenen
+1. Condensatiewarmte bepaling: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo63/demo63.html
+1. Massa toename van een ballon: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo65/demo65.html
+1. Het afnemen van temperatuur van ballen: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo75/demo75.html
+1. Bepaling van verdampingswarmte: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo02/demo02.html
+1. Opwarmen en koelen van gekleurde stoffen: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo99/demo99.html
+1. Cool cans: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo42/demo42.html
+1. Bepaling van soortelijke warmte van zand: (Oud TUD practicum)
+1. Bepaling van soortelijke warmte van materialen als functie van temperatuur
+1. Bepaling van de wet van Boyle: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo37/demo37.html
+1. Lekkage van gas in een gesloten container: https://pubs.aip.org/aapt/pte/article/58/3/186/278736/Teaching-Thermodynamics-Using-a-Vacuum-Container?searchresult=1
+1. Verbeterde gay-lussac experiment: https://pubs.aip.org/aapt/pte/article/57/1/21/1016251/Improved-Gay-Lussac-Experiment-Considering-Added?searchresult=1
+1. More than meets the eye - IR enhanced experiments: https://pubs.aip.org/aapt/pte/article/54/9/528/1058996/More-than-Meets-the-Eye-Infrared-Cameras-in-Open?searchresult=1
+1. adaiabatische index van lucht (3B-scientific pg 100)
+1. thermal anomaly of water (breukhoven pg 81)
+1. nauwkeurige bepaling van soortelijke warmte van water / materiaal
+1. Brownian motion met de proef van Millikan
