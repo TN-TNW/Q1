@@ -16,11 +16,11 @@ Na = Natuurkunde vak
 | 1.2 |  [Python Mod 1](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%201/Notebook%201%20Python%20Basics.html) | Span <br> Basis <br> Linear map | | 
 | 1.3 |  [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) | Cross & triple product| Matrix Multiplication <br> Determinant <br> Matrix Inverse <br> Cramer's Rule | na | opm |
 | 2.1 |  Intro vak <br> Demo <br> Workshop Teamwork <br> Inst. software | Span, basis, lin. map | Functions <br> Domain <br> Range <br> Even and Odd Functions <br> Increasing and Decreasing Func | verplicht aanwezig IP|
-| 2.2 |  [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) | Matrix multiplication, determinant, inverse Cramer's rule| al | na | opm |
-| 2.3 |  Python Mod 3 & 4| al | na | opm |
-| 3.1 |  Data management; Labjournaal <br> Exp proj 1. Paraboolbaan | al | na | opm | P/F |
-| 3.2 |  [Python Mod 4](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%204/Notebook%204%20Scientific%20Computing.html) <br> safety <br> Zingende staaf| al | na | opm |
-| 3.3 |  [Python Mod 5](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%205/Notebook%205%20Data%20in%20Python.html) & Uitwerken analyse Paraboolbaan| al | na | opm | P/F |
+| 2.2 |  [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) | Inverse Exponential Logarithm | al | na | opm |
+| 2.3 |  Python Mod 3 & 4| Limits <br> Limits at Infinity <br> Definition of Limit proof wit Factoring, Long division, Conju | na | opm |
+| 3.1 |  Data management; Labjournaal <br> Exp proj 1. Paraboolbaan | Continuous Function  | na | opm | P/F |
+| 3.2 |  [Python Mod 4](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%204/Notebook%204%20Scientific%20Computing.html) <br> safety <br> Zingende staaf| Derivative | na | opm |
+| 3.3 |  [Python Mod 5](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%205/Notebook%205%20Data%20in%20Python.html) & Uitwerken analyse Paraboolbaan| Chain Rule <br> Product Rule | na | opm | P/F |
 | 4.1 |  Workshop PL: Constructive Conflict | al | na | opm | verplichte aanwezigheid |
 | 4.2 |  Python Mod 5 | al | na | opm |
 | 4.3 |  Python Mod 5| al | na | opm | 
