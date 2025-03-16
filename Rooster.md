@@ -12,24 +12,25 @@ Na = Natuurkunde vak
 
 | moment | IP | Al | Na | Opmerking
 |  ---   | --- | ----  | --- | --- |
-| 1.1 | - | Vector Algebra <br> Dot; Cross & Triple product|| | Academisch opening |
-| 1.2 |  [Python Mod 1](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%201/Notebook%201%20Python%20Basics.html) | Span <br> Basis <br> Linear map | | 
-| 1.3 |  [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) |  Matrix Multiplication <br> Determinant <br> Matrix Inverse <br> Cramer's Rule | na | opm |
-| 2.1 |  Intro vak <br> Demo <br> Workshop Teamwork <br> Inst. software | Functions <br> Domain <br> Range <br> Even and Odd Functions <br> Increasing and Decreasing Func | verplicht aanwezig IP|
-| 2.2 |  [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) | Inverse Exponential Logarithm | al | na | opm |
+| 1.1 | - | Vector Algebra <br> Dot; Cross & Triple product||  Intro <br> Wetten van Newton | Academisch opening |
+| 1.2 |  [Python Mod 1](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%201/Notebook%201%20Python%20Basics.html) | Span <br> Basis <br> Linear map |  Impuls behoud / stoot
+Massa: traag & zwaar | |
+| 1.3 |  [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) |  Matrix Multiplication <br> Determinant <br> Matrix Inverse <br> Cramer's Rule |Arbeid en energie| opm |
+| 2.1 |  Intro vak <br> Demo <br> Workshop Teamwork <br> Inst. software | Functions <br> Domain <br> Range <br> Even and Odd Functions <br> Increasing and Decreasing Func | Conservatieve kracht en potentiaal | verplicht aanwezig IP|
+| 2.2 |  [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) | Inverse Exponential Logarithm | al | Conservatieve kracht en potentiaal | opm |
 | 2.3 |  Python Mod 3 & 4| Limits <br> Limits at Infinity <br> Definition of Limit proof wit Factoring, Long division, Conju. | na | opm |
-| 3.1 |  Data management; Labjournaal <br> Exp proj 1. Paraboolbaan | Continuous Function  | na | opm | P/F |
+| 3.1 |  Data management; Labjournaal <br> Exp proj 1. Paraboolbaan | Continuous Function  | Impulsmoment centrale kracht | PR. P/F |
 | 3.2 |  [Python Mod 4](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%204/Notebook%204%20Scientific%20Computing.html) <br> safety <br> Zingende staaf| Derivative | na | opm |
 | 3.3 |  [Python Mod 5](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%205/Notebook%205%20Data%20in%20Python.html) & Uitwerken analyse Paraboolbaan| Chain Rule <br> Product Rule | na | opm | P/F |
-| 4.1 |  Workshop PL: Constructive Conflict | al | na | opm | verplichte aanwezigheid |
+| 4.1 |  Workshop PL: Constructive Conflict | al | na | verplichte aanwezigheid |
 | 4.2 |  Python Mod 5 | al | na | opm |
 | 4.3 |  Python Mod 5| al | na | opm | 
-| 6.1 |  Workshop ChatGPT & Orienteren Project | al | na | opm | verplichte aanwezigheid |
+| 6.1 |  Workshop ChatGPT & Orienteren Project | al | na | verplichte aanwezigheid |
 | 6.2 |  [Python Mod 6](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%206/Notebook%206%20Measurement%20uncertainty.html) al | na | opm | MC test, **grade** Pyt mod 1-5|
 | 6.3 |  IE-1 data verzameling | al | na | opm| Experiment - verplichte aanwezigheid|
-| 7.1 |  Workshop PL: Skills and Culture Map | al | na | opm| verplichte aanwezigheid |
+| 7.1 |  Workshop PL: Skills and Culture Map | al | na | verplichte aanwezigheid |
 | 7.2 |  Python Mod 6 | al | na | opm |
-| 7.3 |  Data-analyse IE1| al | na | opm| verplichte aanwezigheid|
+| 7.3 |  Data-analyse IE1| al | na | verplichte aanwezigheid|
 | 8.1 |  Project Q1 | al | na | opm| 
 | 8.2 |  Verslag | al | na | opm |
 | 8.3 |  Verslag| al | na | opm |
