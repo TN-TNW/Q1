@@ -8,7 +8,7 @@ Al = Analyse
 | moment | Wat | focus | Opmerking |
 |  ---   | --- | ----  | --- |
 | 1.1 | - | vrij | Academisch opening |
-| 1.2 | IP  10.2 Vector Algebra & Dot product | Python Mod 1| |
+| 1.2 | IP <br> Al | Python Mod 1 <br> 10.2 Vector Algebra & Dot product | |
 | 1.3 | IP | Python Mod 2 | |
 | 2.1 | Pr.| Intro vak <br> Mens Vitruvius <br> Workshop Teamwork <br> Installeren software | verplicht aanwezig|
 | 2.2 | IP | Python Mod 3| |
