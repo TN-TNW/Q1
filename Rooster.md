@@ -5,33 +5,34 @@ Pr = Project
 Al = Analyse
 
 ## Q1
-| moment | Wat | focus | Opmerking |
-|  ---   | --- | ----  | --- |
-| 1.1 | - | vrij | Academisch opening |
-| 1.2 | IP <br> Al | [Python Mod 1](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%201/Notebook%201%20Python%20Basics.html) <br> Vector Algebra & Dot product | |
-| 1.3 | IP <br> Al  | [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) <br> Cross & triple product| |
-| 2.1 | PR <br> Al  | Intro vak & Demo & Workshop Teamwork & Inst. software <br> Span, basis, lin. map| verplicht aanwezig|
-| 2.2 | IP <br> Al  | [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) <br> Matrix multiplication, determinant, inverse Cramer's rule| |
-| 2.3 | IP <br> Al  | Python Mod 3 & 4| |
-| 3.1 | PR <br> Al  | Data management; Labjournaal & Exp proj 1. Paraboolbaan | P/F |
-| 3.2 | IP <br> Al  | [Python Mod 4](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%204/Notebook%204%20Scientific%20Computing.html) <br> safety <br> Zingende staaf| |
-| 3.3 | IP <br> Al  | [Python Mod 5](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%205/Notebook%205%20Data%20in%20Python.html) & Uitwerken analyse Paraboolbaan| P/F |
-| 4.1 | PR <br> Al  | Workshop PL: Constructive Conflict | verplichte aanwezigheid |
-| 4.2 | IP <br> Al  | Python Mod 5 | |
-| 4.3 | IP <br> Al  | Python Mod 5| |
-| 6.1 | PR <br> Al  | Workshop ChatGPT & Orienteren Project  | verplichte aanwezigheid |
-| 6.2 | IP <br> Al  | [Python Mod 6](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%206/Notebook%206%20Measurement%20uncertainty.html) | MC test, **grade** Pyt mod 1-5|
-| 6.3 | IP <br> Al  | IE-1 data verzameling | Experiment - verplichte aanwezigheid|
-| 7.1 | PR <br> Al  | Workshop PL: Skills and Culture Map | verplichte aanwezigheid |
-| 7.2 | IP <br> Al  | Python Mod 6 | |
-| 7.3 | IP <br> Al  | Data-analyse IE1| verplichte aanwezigheid|
-| 8.1 | PR <br> Al  | Project Q1 |
-| 8.2 | IP <br> Al  | Verslag | |
-| 8.3 | IP <br> Al  | Verslag| |
-| 9.1 | PR <br> Al  | Project Q1 Project disseminatie en reflectie| |
-| 9.2 | IP <br> Al  | Peer review | |
-| 9.3 | IP <br> Al  | Verslag| Inleveren vr. 21.30h <br> **grade** |
-| 10  | | Tentamen Python | **grade** |
+
+| moment | IP | Al | Na | Opmerking
+|  ---   | --- | ----  | --- | --- |
+| 1.1 | - | vrij | | Academisch opening |
+| 1.2 |  [Python Mod 1](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%201/Notebook%201%20Python%20Basics.html) | Vector Algebra & Dot product | | 
+| 1.3 |  [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) | Cross & triple product| al | na | opm |
+| 2.1 |  Intro vak <br> Demo <br> Workshop Teamwork <br> Inst. software | Span, basis, lin. map | | verplicht aanwezig IP|
+| 2.2 |  [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) | Matrix multiplication, determinant, inverse Cramer's rule| al | na | opm |
+| 2.3 |  Python Mod 3 & 4| al | na | opm |
+| 3.1 |  Data management; Labjournaal <br> Exp proj 1. Paraboolbaan | al | na | opm | P/F |
+| 3.2 |  [Python Mod 4](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%204/Notebook%204%20Scientific%20Computing.html) <br> safety <br> Zingende staaf| al | na | opm |
+| 3.3 |  [Python Mod 5](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%205/Notebook%205%20Data%20in%20Python.html) & Uitwerken analyse Paraboolbaan| al | na | opm | P/F |
+| 4.1 |  Workshop PL: Constructive Conflict | al | na | opm | verplichte aanwezigheid |
+| 4.2 |  Python Mod 5 | al | na | opm |
+| 4.3 |  Python Mod 5| al | na | opm | 
+| 6.1 |  Workshop ChatGPT & Orienteren Project | al | na | opm | verplichte aanwezigheid |
+| 6.2 |  [Python Mod 6](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%206/Notebook%206%20Measurement%20uncertainty.html) al | na | opm | MC test, **grade** Pyt mod 1-5|
+| 6.3 |  IE-1 data verzameling | al | na | opm| Experiment - verplichte aanwezigheid|
+| 7.1 |  Workshop PL: Skills and Culture Map | al | na | opm| verplichte aanwezigheid |
+| 7.2 |  Python Mod 6 | al | na | opm |
+| 7.3 |  Data-analyse IE1| al | na | opm| verplichte aanwezigheid|
+| 8.1 |  Project Q1 | al | na | opm| 
+| 8.2 |  Verslag | al | na | opm |
+| 8.3 |  Verslag| al | na | opm |
+| 9.1 |  Project Q1 Project disseminatie en reflectie| al | na | opm |
+| 9.2 |  Peer review | al | na | opm |
+| 9.3 |  Verslag| al | na | Inleveren vr. 21.30h <br> **grade** |
+| 10  | al | na | opm | Tentamen Python | **grade** |
 
 Cijfer: 30% IE-1 + 40% Python + 2.5
 Regels: 
@@ -43,33 +44,33 @@ Regels:
 ## Voortgezet practicum
 | moment | Wat | focus | Opmerking |
 |  ---   | --- | ----  | --- |
-| 1.1 | IPR <br> Al  | Workshop Projectmanagement and version control in Github | |
-| 1.2 | IP <br> Al  | Voorbereiding BM  | |
-| 1.3 | IP <br> Al  | Experiment BM | |
-| 2.1 | IPR <br> Al  | Workshop data-acquisitie met computer
-| 2.2 | IP <br> Al  | Voorbereiding Oscilloscoop <br> data-analyse / verslag BM | |
-| 2.3 | IP <br> Al  | Experiment Oscilloscoop | |
-| 3.1 | IP <br> Al  | Uitwerken Osc. & BM | zelfstandig <br> Inleveren verslag BM & labjournaal RC <br> **grade** |
-| 3.2 | IP <br> Al  | Exp bep. van g | |
-| 3.3 | IP <br> Al  | Abstract bep van g | inl. abstract <br> **grade** |
-| 4.1 | | | |
-| 4.2 | | | |
-| 4.3 | | | |
-| 5.1 | |  | |
-| 5.2 | | |  |
-| 5.3 | |  | |
-| 6.1 | IP <br> Al  | Orientatie eindproject | |
-| 6.2 | IP <br> Al  | proposal| P/F|
-| 6.3 | | | |
-| 7.1 |  IP <br> Al  | Exp dag 1 | |
-| 7.2 |  IP <br> Al  | Exp dag 2 | |
-| 7.3 |  IP <br> Al  | data-analyse | zelfstandig |
-| 8.1 |  IP <br> Al  | Exp dag 3 (als nodig) Verslag | |
-| 8.2 | | | |
-| 8.3 | IP <br> Al  | Verslag | |
-| 9.1 | IP <br> Al  | Verslag | |
-| 9.2 | IP <br> Al  | Peer review | P/F |
-| 9.3 | IP <br> Al  | Verslag & reflectie| **grade** |
+| 1.1 | I Workshop Projectmanagement and version control in Github | al | na | opm |
+| 1.2 |  Voorbereiding BM  | al | na | opm |
+| 1.3 |  Experiment BM | al | na | opm |
+| 2.1 | I Workshop data-acquisitie met computer | al | na | opm |
+| 2.2 |  Voorbereiding Oscilloscoop <br> data-analyse / verslag BM | al | na | opm |
+| 2.3 |  Experiment Oscilloscoop | al | na | opm |
+| 3.1 |  Uitwerken Osc. & BM | al | na |  zelfstandig <br> Inleveren verslag BM & labjournaal RC <br> **grade** |
+| 3.2 |  Exp bep. van g | al | na | opm |
+| 3.3 |  Abstract bep van g | al | na | inl. abstract <br> **grade** |
+| 4.1 | al | na | opm | | al | na | opm |
+| 4.2 | al | na | opm | | al | na | opm |
+| 4.3 | al | na | opm | | al | na | opm |
+| 5.1 | al | na | opm |  | al | na | opm |
+| 5.2 | al | na | opm | |  |
+| 5.3 | al | na | opm |  | al | na | opm |
+| 6.1 |  Orientatie eindproject | al | na | opm |
+| 6.2 |  proposal| al | na | P/F|
+| 6.3 | ip | al | na | opm | 
+| 7.1 |   Exp dag 1 | al | na | opm |
+| 7.2 |   Exp dag 2 | al | na | opm |
+| 7.3 |   data-analyse | al | na | opm | zelfstandig |
+| 8.1 |   Exp dag 3 (als nodig) Verslag | al | na | opm |
+| 8.2 | al | na | opm | 
+| 8.3 |  Verslag | al | na | opm |
+| 9.1 |  Verslag | al | na | opm |
+| 9.2 |  Peer review | al | na | P/F |
+| 9.3 |  Verslag & reflectie | al | na | **grade** |
 | 10  | 
 
 peer review
