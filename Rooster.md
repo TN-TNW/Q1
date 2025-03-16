@@ -9,9 +9,9 @@ Al = Analyse
 |  ---   | --- | ----  | --- |
 | 1.1 | - | vrij | Academisch opening |
 | 1.2 | IP <br> Al | [Python Mod 1](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%201/Notebook%201%20Python%20Basics.html) <br> Vector Algebra & Dot product | |
-| 1.3 | IP <br> Al  | [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) | |
-| 2.1 | PR <br> Al  | Intro vak & Mens Vitruvius & Workshop Teamwork & Installeren software | verplicht aanwezig|
-| 2.2 | IP <br> Al  | [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html)| |
+| 1.3 | IP <br> Al  | [Python Mod 2](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%202/Notebook%202%20Functions.html) <br> Cross & triple product| |
+| 2.1 | PR <br> Al  | Intro vak & Demo & Workshop Teamwork & Inst. software <br> Span, basis, lin. map| verplicht aanwezig|
+| 2.2 | IP <br> Al  | [Python Mod 3](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%203/Notebook%203%20Program%20Flow%20Control.html) <br> Matrix multiplication, determinant, inverse Cramer's rule| |
 | 2.3 | IP <br> Al  | Python Mod 3 & 4| |
 | 3.1 | PR <br> Al  | Data management; Labjournaal & Exp proj 1. Paraboolbaan | P/F |
 | 3.2 | IP <br> Al  | [Python Mod 4](https://contemporary-physicslab.github.io/FYPLC/main/Course%20files/Notebook%204/Notebook%204%20Scientific%20Computing.html) <br> safety <br> Zingende staaf| |
